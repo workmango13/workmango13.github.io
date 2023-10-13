@@ -49,10 +49,9 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jungho Kang and I'm a Intermediate Developer.
-  |
-
+  <br><br>
   #### Skill
-  ##### Back-end
+  #### Back-end
   * <mark>PHP</mark>, <mark>laravel</mark>, Node.js, <sub><sup>Python</sup></sub>
   ##### Front-end
   * JavaScript, Svelte, HTML/CSS
