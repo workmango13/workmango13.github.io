@@ -49,19 +49,20 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jungho Kang and I'm a Intermediate Developer.
+  |
 
   #### Skill
-  ###### Back-end
+  ##### Back-end
   * <mark>PHP</mark>, <mark>laravel</mark>, Node.js, <sub><sup>Python</sup></sub>
-  ###### Front-end
+  ##### Front-end
   * JavaScript, Svelte, HTML/CSS
-  ###### Database
-  * Mysql, <sub><sup><sub><sup>Redis</sup></sub></sup></sub>
-  ###### Etc
+  ##### Database
+  * Mysql, <sub><sup>Redis</sup></sub>
+  ##### Etc
   * Elasticsearch, Kibana, Logstash,
   * AWS EC2/S3, Ncloud
-  * Apache, Nginx, Ubuntu, <sub><sup>Shell</sup></sub>
-  * Gitflow, Gitlab, <sub><sup>GitHub</sup></sub>
+  * Apache, Nginx, Ubuntu, <small>Shell</small>
+  * Gitflow, Gitlab, <small>GitHub</small>
 
 
 content:
