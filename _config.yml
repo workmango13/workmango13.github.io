@@ -53,15 +53,16 @@ about_content: | # this will include new lines to allow paragraphs
   #### Skill
   > Back-end
   * <mark>PHP</mark>, <mark>laravel</mark>, Node.js, <sub><sup>Python</sup></sub>
-  ##### Front-end
+  > Front-end
   * JavaScript, Svelte, HTML/CSS
-  ##### Database
+  > Database
   * Mysql, <sub><sup>Redis</sup></sub>
-  ##### Etc
+  > Etc
   * Elasticsearch, Kibana, Logstash,
   * AWS EC2/S3, Ncloud
   * Apache, Nginx, Ubuntu, <small>Shell</small>
   * Gitflow, Gitlab, <small>GitHub</small>
+
 
 
 content:
