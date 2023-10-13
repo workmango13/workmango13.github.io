@@ -53,12 +53,15 @@ about_content: | # this will include new lines to allow paragraphs
   #### Skill
   <br><mark>Back-end</mark>
   * PHP, Laravel, Node.js, <sub><sup>Python</sup></sub>
-  <br><mark>Front-end</mark>
+
+  <mark>Front-end</mark>
   * JavaScript, Svelte, HTML/CSS
-  <br><mark>Database</mark>
+
+  <mark>Database</mark>
   * Mysql, <sub><sup>Redis</sup></sub>
-  <br><br><mark>Etc</mark>
-  * Elasticsearch, Kibana, Logstash,
+
+  <mark>Etc</mark>
+  * Elasticsearch, Kibana, Logstash
   * AWS EC2/S3, Ncloud
   * Apache, Nginx, Ubuntu, <small>Shell</small>
   * Gitflow, Gitlab, <small>GitHub</small>
