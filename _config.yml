@@ -50,22 +50,18 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jungho Kang and I'm a Intermediate Developer.
 
-  ### Skill
-  웹 개발 (Web Development):
-  <mark>PHP</mark>, <mark>laravel</mark>, Node.js, Svelte, JavaScript, HTML5, CSS3, Boostrap3
-
-  서버 및 웹 서비스 (Server & Web Services):
-  Apache, Nginx
-
-  데이터베이스 (Database):
-  Mysql
-
-  검색 및 데이터 처리 (Search & Data Processing):
-  Elsaticsearch, Kibana, Logstash
-
-  #### 클라우드 플랫폼 (Cloud Platforms):
-  AWS, NCLOUD
-
+  #### Skill
+  ###### Back-end
+  * <mark>PHP</mark>, <mark>laravel</mark>, Node.js, <sub><sup>Python</sup></sub>
+  ###### Front-end
+  * JavaScript, Svelte, HTML/CSS
+  ###### Database
+  * Mysql, <sub><sup><sub><sup>Redis</sup></sub></sup></sub>
+  ###### Etc
+  * Elasticsearch, Kibana, Logstash,
+  * AWS EC2/S3, Ncloud
+  * Apache, Nginx, Ubuntu, <sub><sup>Shell</sup></sub>
+  * Gitflow, Gitlab, <sub><sup>GitHub</sup></sub>
 
 
 content:
