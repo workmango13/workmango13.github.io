@@ -58,6 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,6 +69,11 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jhkan\PhpstormProjects\resume" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697164173911</updated>
-      <workItem from="1697164175233" duration="872000" />
+      <workItem from="1697164175233" duration="3005000" />
     </task>
     <servers />
   </component>
@@ -95,9 +101,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="6569" y="382" key="Vcs.Push.Dialog.v2" timestamp="1697164442874">
+    <state x="6569" y="382" key="Vcs.Push.Dialog.v2" timestamp="1697169956021">
       <screen x="6400" y="-351" width="1152" height="2008" />
     </state>
-    <state x="6569" y="382" key="Vcs.Push.Dialog.v2/0.0.1707.1027/6400.-351.1152.2008/2560.-579.2194.1194@6400.-351.1152.2008" timestamp="1697164442874" />
+    <state x="6569" y="382" key="Vcs.Push.Dialog.v2/0.0.1707.1027/6400.-351.1152.2008/2560.-579.2194.1194@6400.-351.1152.2008" timestamp="1697169956021" />
+    <state x="6684" y="369" width="584" height="568" key="find.popup" timestamp="1697172008635">
+      <screen x="6400" y="-351" width="1152" height="2008" />
+    </state>
+    <state x="6684" y="369" width="584" height="568" key="find.popup/0.0.1707.1027/6400.-351.1152.2008/2560.-579.2194.1194@6400.-351.1152.2008" timestamp="1697172008635" />
   </component>
 </project>
