@@ -32,7 +32,7 @@ github_username:  workmango13
 ######### Additional icon links
 additional_links:
 - title: GitLab
-  icon: fa-brands fa-square-gitlab
+  icon: fab fa-gitlab
   url: https://git-lab.coursemos.co.kr/jhkang
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
