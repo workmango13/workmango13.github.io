@@ -51,13 +51,13 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jungho Kang and I'm a Intermediate Developer.
   <br><br>
   #### Skill
-  <mark>Back-end</mark>
+  <br><mark>Back-end</mark>
   * PHP, Laravel, Node.js, <sub><sup>Python</sup></sub>
-  <mark>Front-end</mark>
+  <br><mark>Front-end</mark>
   * JavaScript, Svelte, HTML/CSS
-  <mark>Database</mark>
+  <br><mark>Database</mark>
   * Mysql, <sub><sup>Redis</sup></sub>
-  <mark>Etc</mark>
+  <br><br><mark>Etc</mark>
   * Elasticsearch, Kibana, Logstash,
   * AWS EC2/S3, Ncloud
   * Apache, Nginx, Ubuntu, <small>Shell</small>
